@@ -1,8 +1,7 @@
 ---
-title: "iNaturalist"
-author: "Althea Marks"
-date: '2022-05-19'
-output: html_document
+title: "My iNaturalist Obserbations"
+description: |
+  Nature I've observed
 ---
 
 ```{r setup, include=FALSE}

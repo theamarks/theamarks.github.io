@@ -6,7 +6,15 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2022-05-19T13:18:47-07:00"
+      "last_modified": "2022-05-19T14:01:53-07:00"
+    },
+    {
+      "path": "iNaturalist.html",
+      "title": "My iNaturalist Obserbations",
+      "description": "Nature I've observed",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2022-05-19T14:01:53-07:00"
     },
     {
       "path": "index.html",
@@ -14,7 +22,7 @@
       "description": "Welcome to the website. I hope you enjoy it!\n",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2022-05-19T13:18:47-07:00"
+      "last_modified": "2022-05-19T14:01:53-07:00"
     }
   ],
   "collections": []
