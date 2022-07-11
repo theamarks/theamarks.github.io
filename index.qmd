@@ -1,7 +1,6 @@
----
-title: "theamarks.github.io"
----
 
-This is a Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Data Scientist based in California / Nevada. \
+Currently at [NCEAS](https://www.nceas.ucsb.edu/) & [Arctic Data Center](https://arcticdata.io/)
+
+
