@@ -1,22 +1,22 @@
 ---
 title: "Althea Marks"
 about: 
-  template: trestles
+  template: solana
   image: Althea-portrait-bike.jpg
   image-shape: rectangle
-  image-width: 15em
+  image-width: 20em
   links: 
     - text: github
       href: https://github.com/theamarks
     - text: linkedin
       href: https://www.linkedin.com/in/altheamarks/
     - text: email
-      href: theamarks@nceas.ucsb.edu 
+      href: mailto:theamarks@nceas.ucsb.edu 
 ---
 
 Data Scientist based in California / Nevada. \
-Currently at [NCEAS](https://www.nceas.ucsb.edu/) & [Arctic Data Center](https://arcticdata.io/)
+Currently at [NCEAS](https://www.nceas.ucsb.edu/) & [Arctic Data Center](https://arcticdata.io/).
 
----
+
 
 
