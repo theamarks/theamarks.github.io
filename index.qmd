@@ -8,11 +8,12 @@ about:
   links: 
     - text: github
       href: https://github.com/theamarks
-    - text: LinkedIn
+    - text: linkedin
       href: https://www.linkedin.com/in/altheamarks/
-    - text: Email
+    - text: email
       href: theamarks@nceas.ucsb.edu 
 ---
+
 Data Scientist based in California / Nevada. \
 Currently at [NCEAS](https://www.nceas.ucsb.edu/) & [Arctic Data Center](https://arcticdata.io/)
 
