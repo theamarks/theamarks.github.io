@@ -1,8 +1,8 @@
 ---
 title: "Althea Marks"
+image: images/Althea-portrait-bike.jpg
 about: 
   template: solana
-  image: images/Althea-portrait-bike.jpg
   image-shape: rectangle
   image-width: 20em
   links: 
@@ -19,3 +19,15 @@ about:
 
 Data Scientist based in California / Nevada.\
 Currently at [NCEAS](https://www.nceas.ucsb.edu/) & [Arctic Data Center](https://arcticdata.io/).
+
+------------------------------------------------------------------------
+
+I am a perpetual learner driven by curiosity and the idea of building a world where human and environmental well-being can thrive. As an avid outdoors person, I find solace during a challenging climb up a snow-covered ridge. However, my most rewarding work is using data and technology to assemble a healthier planet and support a just society. I strive towards this goal with genuine interpersonal communication and a dose of levity, while learning from others and my mistakes.
+
+
+
+
+
+
+
+
