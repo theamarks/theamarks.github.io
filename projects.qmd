@@ -5,6 +5,5 @@ listing:
   sort: "date desc"
   type: grid
   date-format: medium
-page-layout: article
+page-layout: full
 ---
-
