@@ -15,8 +15,7 @@ about:
     - icon: envelope
       text: email
       href: mailto:theamarks@nceas.ucsb.edu 
-    - icon: orcid
-      text: ORCiD
+    - text: ORCiD
       href: https://orcid.org/0000-0002-9370-9128
 ---
 
