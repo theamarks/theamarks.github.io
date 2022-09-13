@@ -10,3 +10,13 @@ doi: 10.1007/s12237-021-00920-7
 about: solana
 
 ---
+
+
+
+```{r}
+#| echo: false
+xaringanExtra::embed_xaringan(
+  url = "https://link.springer.com/content/pdf/10.1007/s12237-021-00920-7.pdf",
+  ratio = "4:3"
+)
+```
