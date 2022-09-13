@@ -1,7 +1,10 @@
 ---
-title: ""
-format:
-  html:
-    toc: false
+title: "Projects"
+listing: 
+  contents: projects
+  sort: "date desc"
+  type: grid
+  date-format: medium
+page-layout: article
 ---
 
