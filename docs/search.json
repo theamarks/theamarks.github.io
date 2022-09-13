@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Althea Marks",
     "section": "",
-    "text": "Data Scientist based in California / Nevada.\nCurrently at NCEAS & Arctic Data Center."
+    "text": "I am a perpetual learner driven by curiosity and the idea of building a world where human and environmental well-being can thrive. As an avid outdoors person, I find solace during a challenging climb up a snow-covered ridge. However, my most rewarding work is using data and technology to assemble a healthier planet and support a just society. I strive towards this goal with genuine interpersonal communication and a dose of levity, while learning from others and my mistakes."
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,19 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "data visualization and analysis for peer-reviewed publicaiton\n\n\n\nAlthea Marks\n\n\nNov 1, 2021\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/2021_11_01_Ridlon/index.html",
+    "href": "projects/2021_11_01_Ridlon/index.html",
+    "title": "Native Olympia Oyster Collaborative Synthesis",
+    "section": "",
+    "text": "Overview\nAs the Database Analyst for NOOC (Native Olympia Oyster Collaborative), I built an online data collection survey (Qualtrics) and created a database of all Olympia oyster restoration projects. This required partnering with 23 government, non-profit, and academic organizations and working closely with the NOOC core team. I build data visualizations (Figure 2) and maps (Figure 1) for the peer-reviewed paper and assisted with analyses."
   }
 ]
