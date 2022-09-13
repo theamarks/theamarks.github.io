@@ -5,13 +5,14 @@ project:
 website:
   title: "Althea Marks"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
       - href: projects.qmd
         text: Projects
       - href: inspiration.qmd
         text: Inspiration
+  repo-url: https://github.com/theamarks/theamarks.github.io
 
 format:
   html:
