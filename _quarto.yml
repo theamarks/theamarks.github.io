@@ -17,7 +17,6 @@ format:
   html:
     theme: Lux
     css: styles.css
-    toc: true
 
 
 
