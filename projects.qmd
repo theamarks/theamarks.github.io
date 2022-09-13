@@ -5,6 +5,3 @@ format:
     toc: false
 ---
 
-### Althea is an environmental & data scientist.
-
-She has a background in water quality and ecology. She has her sights on data science and visualization. 
