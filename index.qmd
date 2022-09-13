@@ -2,7 +2,7 @@
 title: "Althea Marks"
 about: 
   template: solana
-  image: Althea-portrait-bike.jpg
+  image: images/Althea-portrait-bike.jpg
   image-shape: rectangle
   image-width: 20em
   links: 
