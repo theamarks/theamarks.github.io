@@ -7,15 +7,14 @@ author:
     orcid: 0000-0002-9370-9128
 date: 2021-11-01
 doi: 10.1007/s12237-021-00920-7 
-about: solana
 image: NOOC_cost_figure.jpg
 ---
 
 ```{r}
 #| echo: false
 #| fig-cap: "Figure 2 in Ridlon et al. (2021) that I created"
-#| fig-asp: 0.618
-#| fig-width: 4
+
+
 knitr::include_graphics("NOOC_cost_figure.jpg")
 ```
 
