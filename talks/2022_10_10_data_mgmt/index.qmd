@@ -1,0 +1,11 @@
+---
+title: "Data Management"
+description: |
+  Introduction to data management, Open-science, FAIR and CARE principals for the Zacherl Marine Ecology Lab CSU Fullerton
+author: 
+  - name: Althea Marks
+    orcid: 0000-0002-9370-9128
+date: 2022-10-10
+# image: 
+---
+
