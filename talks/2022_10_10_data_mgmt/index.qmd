@@ -6,6 +6,11 @@ author:
   - name: Althea Marks
     orcid: 0000-0002-9370-9128
 date: 2022-10-10
-# image: 
+image: Data_mgmt_pres_titleslide.png
 ---
 
+```{r}
+#| echo: false
+
+knitr::include_graphics("Data_mgmt_pres_titleslide.png")
+```
