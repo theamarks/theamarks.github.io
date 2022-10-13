@@ -10,8 +10,8 @@ website:
         text: Home
       - href: projects.qmd
         text: Projects
-      - href: presentations.qmd
-        text: Presentations
+      - href: talks.qmd
+        text: Talks
   repo-url: https://github.com/theamarks/theamarks.github.io
 
 format:
