@@ -5,6 +5,10 @@ description: |
 author: 
   - name: Althea Marks
     orcid: 0000-0002-9370-9128
+    links: 
+    - icon: 
+      text: slides
+      href: 
 date: 2022-10-10
 image: Data_mgmt_pres_titleslide.png
 ---
