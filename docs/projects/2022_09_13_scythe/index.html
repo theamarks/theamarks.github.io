@@ -8,7 +8,7 @@
 
 <meta name="author" content="Althea Marks">
 <meta name="dcterms.date" content="2022-09-13">
-<meta name="description" content="data science fellowship project at NCEAS">
+<meta name="description" content="R package that harvests dataset citations">
 
 <title>Althea Marks - scythe Package Development</title>
 <style>
@@ -55,6 +55,7 @@ ul.task-list{list-style: none;}
     "search-submit-button-title": "Submit"
   }
 }</script>
+<script src="../../site_libs/fitvids-2.1.1/fitvids.min.js"></script>
 
 
 <link rel="stylesheet" href="../../styles.css">
@@ -104,7 +105,7 @@ ul.task-list{list-style: none;}
 </div>
 <div>
   <div class="description">
-    <p>data science fellowship project at NCEAS</p>
+    <p>R package that harvests dataset citations</p>
   </div>
 </div>
 <div class="quarto-title-meta">
@@ -125,7 +126,20 @@ ul.task-list{list-style: none;}
       <div class="about-contents"><main class="content" id="quarto-document-content">
 <section id="overview" class="level3">
 <h3 data-anchor-id="overview">Overview</h3>
-<p>Academic researchers increasingly recognize the importance of publishing datasets in conjunction with peer-reviewed articles. Published datasets can be cited for many reasons, including to increase transparency and reproducibility of the research, to publicize that data are available for reuse by other researchers, and to provide credit to the authors when data are reused. However, the practice of citing datasets is rare in many disciplines and often does not follow citation guidelines, e.g., as recommended by the Force11 Data Citation Principles. Dataset citations are tracked and recorded in several ways at the Arctic Data Center for the 6,700+ datasets curated and archived in the repository. The Arctic Data Center’s current citation tracking methods include the DataCite/CrossRef EventData service, manual entry by repository users, and the R package “scythe” developed by the Arctic Data Center. Scythe (v0.9.1) queries the Scopus, PLOS, Springer, and xDD databases for DOIs (Digital Object Identifier) provided by the user. While developing the next version of the package. We sought to understand whether our metrics on data citation are complete, and how they vary across citation sources, disciplines, and usage patterns.</p>
+<p>The Arctic Data Center Data Repository (ADC) exposed me to structured metadata, ontologies, semantics, and bibliometrics. As a data science fellow tasked with improving support for social science researchers, I was interested in how data attribution could help researchers trace data reuse, give proper credit to data creators, and verify claims derived from the data. The ADC employs several mecanisms to find and track dataset citations, one is the <code>scythe</code> package that queries database APIs for ADC DOIs.</p>
+<p>I developed <code>scythe</code> (v0.9.1 - <a href="https://github.com/DataONEorg/scythe">GitHub</a>) which adds the ability to query the <a href="https://geodeepdive.org/">xDD</a> database API. In addition to the package development, I analyzed search results to understand whether ADC metrics on data citation are complete, and how they vary across citation sources, disciplines, and usage patterns.</p>
+</section>
+<section id="analysis" class="level3">
+<h3 data-anchor-id="analysis">Analysis</h3>
+<p>Below is my bibliometric analysis of the <code>scythe</code> (v0.9.1) package. The analysis is conducted in a Quarto document and published on GitHub <a href="https://theamarks.github.io/ADC-citation-project/">here</a></p>
+<div class="cell">
+<div class="cell-output-display">
+<div class="shareagain" style="min-width:300px;margin:1em auto;" data-exeternal="1">
+<iframe src="https://theamarks.github.io/ADC-citation-project/" width="400" height="300" style="border:2px solid currentColor;" loading="lazy" allowfullscreen=""></iframe>
+<script>fitvids('.shareagain', {players: 'iframe'});</script>
+</div>
+</div>
+</div>
 
 
 </section>
