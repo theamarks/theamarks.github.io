@@ -19,5 +19,14 @@ The ADC employs several mecanisms to find and track dataset citations, one is th
 I developed  `scythe` (v0.9.1 - [GitHub](https://github.com/DataONEorg/scythe)) which adds the ability to query the [xDD](https://geodeepdive.org/) database API. 
 In addition to the package development, I analyzed search results to understand whether ADC metrics on data citation are complete, and how they vary across citation sources, disciplines, and usage patterns.
 
+### Analysis
 
+Below is my bibliometric analysis of the `scythe` (v0.9.1) package. The analysis is conducted in a Quarto document and published on GitHub [here](https://theamarks.github.io/ADC-citation-project/).
 
+```{r}
+#| echo: false
+xaringanExtra::embed_xaringan(
+  url = "https://theamarks.github.io/ADC-citation-project/",
+  ratio = "4:3"
+)
+```
