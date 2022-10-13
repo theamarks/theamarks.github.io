@@ -1,10 +1,23 @@
 ---
-title: "scythe Package Development"
+title: "`scythe` Package Development"
 description: |
-  R package that searches databases for dataset citations
+  R package that harvests dataset citations
 author: 
   - name: Althea Marks
     orcid: 0000-0002-9370-9128
 date: 2022-09-13
 about: solana
 ---
+
+
+### Overview
+
+The Arctic Data Center Data Repository (ADC) exposed me to structured metadata, ontologies, semantics, and bibliometrics. 
+As a data science fellow tasked with improving support for social science researchers, I was interested in how data attribution could help researchers trace data reuse, give proper credit to data creators, and verify claims derived from the data. 
+The ADC employs several mecanisms to find and track dataset citations, one is the `scythe` package that queries database APIs for ADC DOIs. 
+
+I developed  `scythe` (v0.9.1 - [GitHub](https://github.com/DataONEorg/scythe)) which adds the ability to query the [xDD](https://geodeepdive.org/) database API. 
+In addition to the package development, I analyzed search results to understand whether ADC metrics on data citation are complete, and how they vary across citation sources, disciplines, and usage patterns.
+
+
+
