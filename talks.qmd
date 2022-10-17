@@ -1,0 +1,9 @@
+---
+title: "Recent Talks"
+listing: 
+  contents: talks
+  sort: "date desc"
+  type: default
+  date-format: medium
+page-layout: full
+---
